@@ -14,7 +14,7 @@ This is a complete project to showcase the complete CI/CD workflow using Github 
 1. git init -b master
 2. git add .
 3. git commit -m "Initial Commit"
-4. git remote add origin "https://github.com/sanjeeb-das-lti/currency-exchange-service.git"
+4. git remote add origin "https://github.com/IamSushant/currency-exchange-service.git"
 5. git push -u origin master
 
 **Steps to build Dockerfile**
